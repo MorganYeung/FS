@@ -1,1 +1,2 @@
 # FunicularSpectacular
+![Screenshot](funicularspectacular.jpg)
